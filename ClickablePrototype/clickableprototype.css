@@ -1,0 +1,72 @@
+/* #navbarNavDropdown{
+    display: flex;
+} */
+
+/* .navbar navbar-light bg-light{
+    display: inline-flex;
+} */
+#welcome{
+    text-align: center;
+}
+#content{
+    display:flex;
+    margin-top: 100px;
+
+} 
+#inventory{
+    min-height: 800px;
+    width: 1000px;
+    outline: 1px solid black;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#sidenav{
+    min-height: 350px;
+    width: 250px;
+    outline: 1px solid black;
+    margin-left: 100px;
+    margin-bottom: 300px;
+}
+#pics{
+    text-align: center;
+    /* min-height: 300px; */
+}
+.navigation{
+    word-spacing: 10px;
+    display: flex;
+    text-align: center;
+}
+.brandleft{
+    margin-left: 30px;
+
+}
+.navbarcontent{
+    display: inline;
+    text-align: center;
+}
+.navbarcontent ul{
+    display: inline;
+}
+.photosnap{
+    background-color: white;
+   
+
+}
+.head1{
+    text-align: center;
+    
+    background-color: #0A2569;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+    color: white;
+}
+.blackdunder{
+    background-color: #0A2569;
+}
+img [src="dunder mifflin.png"]{
+    margin-top: 20px;
+}
+
